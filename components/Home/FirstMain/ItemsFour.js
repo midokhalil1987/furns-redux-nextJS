@@ -1,0 +1,36 @@
+export const ItemsFour = [
+  {
+    thumbSrc: "tabOne/var2.jpeg",
+    thumbAlt: "var2",
+    link: "/product/josefa-queen-size-bed-with-storage-in-natural-teak-wood-finish",
+    name: "Josefa Queen Size Bed with Storage in Natural Teak Wood Finish",
+    newPrice: "199.0",
+    btnName: "Add to Cart",
+  },
+  {
+    thumbSrc: "tabOne/var4.jpeg",
+    thumbAlt: "var4",
+    link: "/product/twist-dining-table",
+    name: "Twist Dining Table",
+    newPrice: "288.0",
+    btnName: "Add to Cart",
+  },
+  {
+    thumbSrc: "tabOne/var14.jpeg",
+    thumbAlt: "var14",
+    link: "/product/hospital-bed-tranquil",
+    name: "Hospital bed Tranquil",
+    newPrice: "666.0",
+    btnName: "Add to Cart",
+  },
+  {
+    thumbSrc: "tabOne/var13.jpeg",
+    thumbAlt: "var13",
+    hovthumbSrc: "tabOne/var13c.jpeg",
+    hovthumbAlt: "var13c",
+    link: "/product/optima-high-back-chair",
+    name: "Optima High Back Chair",
+    newPrice: "211.0",
+    btnName: "Select Options",
+  },
+];
